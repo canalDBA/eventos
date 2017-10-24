@@ -17,7 +17,8 @@ root
 ```
 
 - Si bien se puede usar cualquier formato y archivos, como para tener más o menos un estándar se recomienda:
-  - Usar Markdown (sintaxis y extensión .md)
+  
+  - Usar Markdown (sintaxis y extensión .md)
   
 - Los siguientes dirs son estáticos:
 
