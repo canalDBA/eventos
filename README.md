@@ -7,12 +7,13 @@ Este repo es para ir organizando los eventos, confs, etc. No hay restricciones e
 ```
 root
   |
-  +-- evento_UY_año
-  |        |
-  |        +-- Presentaciones
-  |        ...
-  |
-  +-- meetup_BA_año_mes
+  +-- año
+      |
+      +-- evento_UY_mes
+          |
+          +-- Presentaciones
+          ...
+      +-- meetup_BA_mes
   ...
 ```
 
