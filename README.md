@@ -28,4 +28,10 @@ reglas ( acá van las políticas del evento/meetup, código de conducta, calidad
 static (slides de canaldba, templates para usar por speakers, etc)
 ```
 
+## Posibles host sponsors (Baires)
 
+- [wework](https://www.meetup.com/about/hostatwework)
+
+## Posibles host sponsors (mvd)
+
+- UTU
